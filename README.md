@@ -7,8 +7,8 @@ The data wrangling process follows the following 3 steps:
   - The WeRateDogs Twitter archive
   - The tweet image predictions
   - Additional data from the Twitter API
-2. Assessing Data 
-3. Cleaning Data 
+2. Assessing of Data 
+3. Cleaning of Data 
 
 ## 1. Data Gathering 
 
